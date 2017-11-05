@@ -1,0 +1,30 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ulas_kocak/Desktop/verilog_labs/lab13/design/alarm_clock.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alarm_clock
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ulas_kocak/Desktop/verilog_labs/lab06/design/alarm_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alarmReg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ulas_kocak/Desktop/verilog_labs/lab05/design/alarmfunc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alarmfunc
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ulas_kocak/Desktop/verilog_labs/lab08/.solutions/control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ulas_kocak/Desktop/verilog_labs/lab05/design/ddrv.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddrv
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ulas_kocak/Desktop/verilog_labs/lab11/design/debounce.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module debounce
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ulas_kocak/Desktop/verilog_labs/lab12/design/debounce_toggle.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module debounce_toggle
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ulas_kocak/Desktop/verilog_labs/lab14/design/lcd_driver.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LCD_DRIVER
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ulas_kocak/Desktop/verilog_labs/lab06/design/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ulas_kocak/Desktop/verilog_labs/lab07/design/pulsegen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pulsegen
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ulas_kocak/Desktop/verilog_labs/lab09/.solutions/time_count.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module timeCount
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ulas_kocak/Desktop/verilog_labs/lab10/design/time_set.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module timeSet
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ulas_kocak/Desktop/verilog_labs/lab04/design/twomux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module twomux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ulas_kocak/Desktop/verilog_labs/lab14/testbench/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ulas_kocak/Verilog_LABs/Verilog_LABs.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

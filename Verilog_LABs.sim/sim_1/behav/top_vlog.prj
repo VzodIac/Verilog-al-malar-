@@ -1,0 +1,21 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../../Desktop/verilog_labs/lab13/design/alarm_clock.v" --include "../../../../Desktop/verilog_labs/lab04/design"
+verilog xil_defaultlib  "../../../../Desktop/verilog_labs/lab06/design/alarm_reg.v" --include "../../../../Desktop/verilog_labs/lab04/design"
+verilog xil_defaultlib  "../../../../Desktop/verilog_labs/lab05/design/alarmfunc.v" --include "../../../../Desktop/verilog_labs/lab04/design"
+verilog xil_defaultlib  "../../../../Desktop/verilog_labs/lab08/.solutions/control.v" --include "../../../../Desktop/verilog_labs/lab04/design"
+verilog xil_defaultlib  "../../../../Desktop/verilog_labs/lab05/design/ddrv.v" --include "../../../../Desktop/verilog_labs/lab04/design"
+verilog xil_defaultlib  "../../../../Desktop/verilog_labs/lab11/design/debounce.v" --include "../../../../Desktop/verilog_labs/lab04/design"
+verilog xil_defaultlib  "../../../../Desktop/verilog_labs/lab12/design/debounce_toggle.v" --include "../../../../Desktop/verilog_labs/lab04/design"
+verilog xil_defaultlib  "../../../../Desktop/verilog_labs/lab14/design/lcd_driver.v" --include "../../../../Desktop/verilog_labs/lab04/design"
+verilog xil_defaultlib  "../../../../Desktop/verilog_labs/lab06/design/mux.v" --include "../../../../Desktop/verilog_labs/lab04/design"
+verilog xil_defaultlib  "../../../../Desktop/verilog_labs/lab07/design/pulsegen.v" --include "../../../../Desktop/verilog_labs/lab04/design"
+verilog xil_defaultlib  "../../../../Desktop/verilog_labs/lab09/.solutions/time_count.v" --include "../../../../Desktop/verilog_labs/lab04/design"
+verilog xil_defaultlib  "../../../../Desktop/verilog_labs/lab10/design/time_set.v" --include "../../../../Desktop/verilog_labs/lab04/design"
+verilog xil_defaultlib  "../../../../Desktop/verilog_labs/lab04/design/twomux.v" --include "../../../../Desktop/verilog_labs/lab04/design"
+verilog xil_defaultlib  "../../../../Desktop/verilog_labs/lab14/testbench/top.v" --include "../../../../Desktop/verilog_labs/lab04/design"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
