@@ -3,4 +3,9 @@ yeni eklme
 
 liseliler_v1
 ibrahim zengin olacak
+<<<<<<< HEAD
 son nokta
+=======
+
+bitcoin
+>>>>>>> origin/branch_2
